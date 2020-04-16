@@ -1,3 +1,3 @@
 # Git & GitHub
- ## Curso de **Git e GitHub** 
- Material professor *Gustavo Guanabara*
+ ### Curso de **Git e GitHub** 
+ Testando a linguagem *Markdown*

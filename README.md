@@ -1,2 +1,2 @@
 # Git & GitHub
- Curso de **Git e GitHub**
+ Curso de **Git e GitHub** material professor *Gustavo Guanabara*
